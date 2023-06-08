@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1686253960 source:c:\users\mr. mehedi hasan\desktop\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1686253979 c:\users\mr. mehedi hasan\desktop\phonebook\types.h
+
+1686254019 c:\users\mr. mehedi hasan\desktop\phonebook\phonebook.h
+
+1686253991 source:c:\users\mr. mehedi hasan\desktop\phonebook\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
+1686254003 c:\users\mr. mehedi hasan\desktop\phonebook\utilities.h
+
